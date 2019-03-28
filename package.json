@@ -6,6 +6,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
+    "react-lines-ellipsis": "^0.14.1",
     "react-scripts": "2.1.8"
   },
   "scripts": {
@@ -22,5 +23,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "homepage": "http://tkddls8848.github.io/React_Movie_app",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
